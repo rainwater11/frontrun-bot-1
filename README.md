@@ -1,19 +1,9 @@
-# Front-RunBot
+# Front-RunBot using Uniswap or PanCake
 ## Requirements
-1. Install latest Node.js
-2. At the root of the project folder
-    ```
-    $ npm install web3
-    $ npm install axios
-    $ npm install colors
-    $ npm install ethereumjs-tx
-    $ npm install abi-decoder
-    ```
-
-
+   install latest Node.js
+## Install
+    At the root of the each project folder (uniswap or pancake)
+    $ npm install
 ## Usage
-Enter your PRIVATE_KEY before running the program.
-
-```bash
-$ node frontrun.js
-```
+    1. Enter your PRIVATE_KEY before running the bot.
+    2. $ node frontrun.js
